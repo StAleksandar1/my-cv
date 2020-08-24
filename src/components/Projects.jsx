@@ -37,7 +37,7 @@ function Projects() {
                         </div>
                         <div className="col-lg-6 col-sm-12">
                             <div className="projects-box">
-                                <a a href="https://frozen-fjord-69017.herokuapp.com/" target="_blank" rel="noopener noreferrer"> <img src={keeperApp} alt="keeper-app" /></a>
+                                <a a href="https://staleksandar1.github.io/keeper-app-react/" target="_blank" rel="noopener noreferrer"> <img src={keeperApp} alt="keeper-app" /></a>
                             </div>
                         </div>
                         <div className="col-lg-6 col-sm-12">
