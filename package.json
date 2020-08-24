@@ -55,6 +55,9 @@
   },
   "author": "Aleksandar Stojkovski",
   "license": "ISC",
+  "engines": {
+    "node": "12.18.3"
+  },
   "bugs": {
     "url": "https://github.com/StAleksandar1/my-cv/issues"
   }
