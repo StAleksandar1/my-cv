@@ -5,7 +5,7 @@ function Skills() {
     return (
         <section id="skills">
 
-            <div className="container">
+            <div className="">
                 <div>
                     <hr />
                     <h2>Skills</h2>

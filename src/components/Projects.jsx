@@ -13,7 +13,7 @@ function Projects() {
                 <hr />
                 <h2>Projects</h2>
                 <hr className="dotted-hr" />
-                <div className="container">
+                <div className="">
                     <div class="row justify-content-around">
                         <div className="col-lg-6 col-sm-12">
                             <div className="projects-box">

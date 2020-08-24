@@ -157,7 +157,11 @@
     max-height: 600px !important;
     
   }
-
+  #skills {
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+  }
   .skills-list {
     margin-left: 10px;
     padding: 10px;
