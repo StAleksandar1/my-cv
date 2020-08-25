@@ -65,7 +65,7 @@ function Skills() {
                     <div class="card">
 
                         <div class="card-body">
-                            <h5 class="card-title">Bootstrap 4</h5>
+                            <h5 class="card-title">Bootstrap 5</h5>
                             <p class="card-text">
                                 <ul className="skills-list">
                                     <li>Bootstrap Grid Layout System.</li>
