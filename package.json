@@ -13,6 +13,8 @@
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "express": "^4.17.1",
+    "express-favicon": "^2.0.1",
+    "favicon": "0.0.2",
     "gh-pages": "^3.1.0",
     "material-icons": "^0.3.1",
     "material-ui-icons": "^1.0.0-beta.36",
@@ -56,7 +58,8 @@
   "author": "Aleksandar Stojkovski",
   "license": "ISC",
   "engines": {
-    "node": "12.18.3"
+    "node": "12.18.3",
+    "npm": "6.14.6"
   },
   "bugs": {
     "url": "https://github.com/StAleksandar1/my-cv/issues"
